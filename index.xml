@@ -1,39 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Netdevs B.V.</title>
-    <link>https://dpeachey.github.io/</link>
-    <description>Recent content on Netdevs B.V.</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dpeachey.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello world</title>
-      <link>https://dpeachey.github.io/blog/hello-world/</link>
-      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dpeachey.github.io/blog/hello-world/</guid>
-      <description>Hello world!</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://dpeachey.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dpeachey.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://dpeachey.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dpeachey.github.io/contact/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Netdevs Blog</title>
+        <link>https://www.netdevs.eu/</link>
+        <description>Netdevs Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 21 Mar 2021 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="https://www.netdevs.eu/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Hello World!</title>
+    <link>https://www.netdevs.eu/hello-world/</link>
+    <pubDate>Sun, 21 Mar 2021 00:00:00 &#43;0000</pubDate>
+    <author>netdevs.en</author>
+    <guid>https://www.netdevs.eu/hello-world/</guid>
+    <description><![CDATA[There will be some content here soon!]]></description>
+</item></channel>
 </rss>

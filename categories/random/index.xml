@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Random - Category - Netdevs Blog</title>
+        <link>https://www.netdevs.eu/categories/random/</link>
+        <description>Random - Category - Netdevs Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 21 Mar 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.netdevs.eu/categories/random/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello World!</title>
+    <link>https://www.netdevs.eu/hello-world/</link>
+    <pubDate>Sun, 21 Mar 2021 00:00:00 &#43;0000</pubDate>
+    <author>netdevs.en</author>
+    <guid>https://www.netdevs.eu/hello-world/</guid>
+    <description><![CDATA[There will be some content here soon!]]></description>
+</item></channel>
+</rss>
